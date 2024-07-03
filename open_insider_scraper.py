@@ -44,11 +44,12 @@ class OpenInsiderScraper:
             internal_path = f"{os.getcwd()}\\config.json"
             with open(internal_path, "r") as file:
                 data = json.load(file)
+            return data["data_export_path"]
         except FileNotFoundError:
             external_path = f"{os.getcwd()}\\OpenInsiderScraper\\config.json"
             with open(external_path, "r") as file:
                 data = json.load(file)
-        return data["data_export_path"]
+            return data["data_export_path"]
 
     """-----------------------------------"""
     """----------------------------------- Browser Operations -----------------------------------"""
@@ -58,11 +59,12 @@ class OpenInsiderScraper:
             internal_path = f"{os.getcwd()}\\config.json"
             with open(internal_path, "r") as file:
                 data = json.load(file)
+            return data["chrome_driver_path"]
         except FileNotFoundError:
             external_path = f"{os.getcwd()}\\OpenInsiderScraper\\config.json"
             with open(external_path, "r") as file:
                 data = json.load(file)
-        return data["chrome_driver_path"]
+            return data["chrome_driver_path"]
 
     def _create_browser(self, url=None):
         """
