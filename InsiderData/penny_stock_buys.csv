@@ -1,0 +1,101 @@
+filing_date,trade_date,ticker,company_name,industry,insider_name,price,quantity,ownership,ownership_change,value
+2024-07-01 21:29:04,2024-06-27,ELYM,Eliem Therapeutics Inc.,"Ra Capital Management, L.P.","Dir, 10%",$3.84,13008546.0,5417638.0,-171.0,49952817.0
+2024-07-01 20:56:30,2019-08-20,FLNT,Fluent Inc.,Patrick Donald Huntley,COO,$3.08,15000.0,465000.0,3.0,46198.0
+2024-07-01 20:54:35,2023-12-11,FLNT,Fluent Inc.,Patrick Donald Huntley,CEO,$4.90,15000.0,1477200.0,1.0,73500.0
+2024-07-01 20:27:32,2024-06-27,KRON,Kronos Bio Inc.,Bischofberger Norbert W,"Pres, CEO",$1.19,615518.0,11857138.0,5.0,733801.0
+2024-07-01 17:00:28,2024-06-27,JVA,Coffee Holding Co Inc,Gordon Andrew,"CEO, Pres, 10%",$2.18,25000.0,312750.0,9.0,54388.0
+2024-07-01 16:27:16,2024-06-28,DMAC,Diamedica Therapeutics Inc.,Von Koch Thomas,10%,$2.50,1200000.0,5526435.0,28.0,3000000.0
+2024-07-01 16:24:38,2024-06-28,DMAC,Diamedica Therapeutics Inc.,Stahlberg Jan,10%,$2.50,1200000.0,5221608.0,30.0,3000000.0
+2024-07-01 15:12:12,2024-06-27,CALC,Calcimedica Inc.,Wilson Robert N,Dir,$3.23,8443.0,258918.0,3.0,27305.0
+2024-07-01 13:39:08,2024-06-27,ACRS,Aclaris Therapeutics Inc.,Leonard Braden Michael,10%,$1.13,1543434.0,24882706.0,7.0,1742075.0
+2024-07-01 10:30:12,2024-06-28,GSAT,Globalstar Inc.,Monroe James III,"Dir, 10%",$1.06,4510855.0,1097262285.0,0.0,4800001.0
+2024-07-01 09:17:11,2024-06-27,TURN,180 Degree Capital Corp. /ny/,Rendino Kevin,"COB, CEO",$3.69,15800.0,789299.0,2.0,58337.0
+2024-07-01 08:40:16,2024-06-28,FBIO,Fortress Biotech Inc.,Rosenwald Lindsay A Md,"Pres, CEO, COB, 10%",$1.64,20000.0,2893905.0,1.0,32724.0
+2024-07-01 08:00:07,2024-06-27,TSHA,Taysha Gene Therapies Inc.,Manning Paul B,10%,$2.25,1333333.0,24851111.0,6.0,2999999.0
+2024-07-01 06:30:02,2024-06-27,STTK,Shattuck Labs Inc.,Brous Tyler,Dir,$3.89,8416.0,238088.0,4.0,32768.0
+2024-06-28 21:08:15,2024-06-26,AGAE,Allied Gaming & Entertainment Inc.,Choi Roy,10%,$1.28,608000.0,11418092.0,6.0,778160.0
+2024-06-28 19:32:40,2024-06-24,ARDS,Aridis Pharmaceuticals Inc.,Patzer Eric,Dir,$0.07,714286.0,884600.0,419.0,50000.0
+2024-06-28 19:29:41,2024-06-24,ARDS,Aridis Pharmaceuticals Inc.,Truong Vu,CEO,$0.07,714286.0,1378639.0,108.0,50000.0
+2024-06-28 18:14:48,2024-06-26,PRPL,Purple Innovation Inc.,Demartini Robert,CEO,$1.02,200000.0,663669.0,43.0,203656.0
+2024-06-28 17:40:10,2024-06-26,EXFY,Expensify Inc.,McLaughlin Steven J.,10%,$1.45,88839.0,11575813.0,1.0,128817.0
+2024-06-28 17:13:54,2023-12-19,SCND,Scientific Industries Inc,Cox Christopher T,Dir,$2.00,79245.0,301245.0,36.0,158490.0
+2024-06-28 16:15:26,2024-06-26,AEI,Alset Inc.,Chan Heng Fai Ambrose,"CEO, 10%",$1.78,123318.0,5845175.0,2.0,219379.0
+2024-06-28 06:06:37,2024-05-30,RELI,Reliance Global Group Inc.,Beyman Ezra,"COB, CEO",$0.27,186000.0,567020.0,49.0,50220.0
+2024-06-27 20:27:34,2024-06-25,SST,System1 Inc.,Cee Holdings Trust,10%,$1.42,111766.0,8338410.0,1.0,159187.0
+2024-06-26 20:04:00,2024-06-24,CLIR,Clearsign Technologies Corp,Hoffman Robert Thurston Sr,10%,$0.91,3350000.0,9887840.0,51.0,3048500.0
+2024-06-26 16:31:59,2024-06-25,NUVB,Nuvation Bio Inc.,Cui Xiangmin,Dir,$2.97,277895.0,6950239.0,4.0,825348.0
+2024-06-26 16:15:02,2024-06-26,STTK,Shattuck Labs Inc.,Schreiber Taylor,CEO,$3.47,14400.0,2645252.0,1.0,50011.0
+2024-06-25 19:21:55,2024-06-21,ATHA,Athira Pharma Inc.,Romano Kelly A,Dir,$2.36,42400.0,80715.0,111.0,100051.0
+2024-06-25 17:45:38,2024-06-20,NUVB,Nuvation Bio Inc.,Cui Xiangmin,Dir,$2.98,500000.0,6672344.0,8.0,1492385.0
+2024-06-25 16:16:11,2024-06-23,NRBO,Neurobo Pharmaceuticals Inc.,"Dong-A St Co., Ltd",10%,$3.13,2544530.0,5348229.0,91.0,7964379.0
+2024-06-25 16:06:47,2024-06-11,PROK,Prokidney Corp.,Control Empresarial De Capitales S.A. De C.V.,"Add'l Rep. Persons-see Ex.99-1, 10%",$2.42,8264462.0,71560107.0,13.0,19999998.0
+2024-06-25 14:59:07,2024-06-06,NINE,Nine Energy Service Inc.,Monroe William,10%,$1.56,1195126.0,3429638.0,53.0,1862477.0
+2024-06-25 06:30:55,2024-06-21,NXDT,Nexpoint Diversified Real Estate Trust,Dondero James D,"See Remarks, 10%",$4.89,40471.0,7767853.0,1.0,197903.0
+2024-06-24 17:52:18,2024-06-21,GOSS,Gossamer Bio Inc.,Hasnain Faheem,"Pres, CEO",$0.67,372000.0,5528366.0,7.0,250282.0
+2024-06-24 16:45:49,2024-06-20,EXFY,Expensify Inc.,McLaughlin Steven J.,10%,$1.38,131192.0,11473081.0,1.0,181395.0
+2024-06-24 16:30:27,2024-06-20,NXDT,Nexpoint Diversified Real Estate Trust,Norris Dustin David,See Remarks,$4.73,63430.0,145029.0,78.0,300024.0
+2024-06-24 16:30:04,2024-06-21,ADV,Advantage Solutions Inc.,Peacock David A,CEO,$2.79,40000.0,2320396.0,2.0,111584.0
+2024-06-24 16:29:48,2024-06-20,GLYC,Glycomimetics Inc,Rock Edwin,Chief Medical Officer,$0.26,305000.0,680403.0,81.0,78825.0
+2024-06-24 16:15:28,2024-06-20,AEI,Alset Inc.,Chan Heng Fai Ambrose,"CEO, 10%",$1.21,59092.0,5720631.0,1.0,71283.0
+2024-06-24 16:03:24,2024-06-21,DC,Dakota Gold Corp.,Berry James McCoy,Vice-Pres of Exploration,$2.48,20000.0,273752.0,8.0,49600.0
+2024-06-21 18:05:40,2024-06-14,GDNSF,Goodness Growth Holdings Inc.,"Chicago Atlantic Credit Opportunities, LLC",10%,$0.54,1300078.0,11960722.0,12.0,699962.0
+2024-06-21 17:57:18,2024-06-18,ATLN,Atlantic International Corp.,Machinist Robert Barry,Dir,$2.36,728814.0,728814.0,New,1720001.0
+2024-06-21 17:16:51,2024-06-18,MNPR,Monopar Therapeutics,Cittadine Andrew,COO,$0.79,32508.0,186132.0,21.0,25574.0
+2024-06-21 15:05:28,2024-06-18,ATLN,Atlantic International Corp.,Tenore Michael,"GC, Secretary",$2.36,1001694.0,1001694.0,New,2363998.0
+2024-06-21 15:04:47,2024-06-18,ATLN,Atlantic International Corp.,Broderick Christopher,"COO, CFO",$2.36,2004237.0,2004237.0,New,4729999.0
+2024-06-21 15:03:41,2024-06-18,ATLN,Atlantic International Corp.,Jagid Jeffrey M,CEO,$2.36,3735169.0,3735169.0,New,8814999.0
+2024-06-21 12:17:45,2024-05-10,BMXI,Brookmount Explorations Inc,Ollquist Nils A.,CEO,$0.13,3343210.0,4593210.0,267.0,417901.0
+2024-06-20 20:21:38,2024-06-18,GOSS,Gossamer Bio Inc.,Giraudo Bryan,"COO, CFO",$0.59,100000.0,480010.0,26.0,59110.0
+2024-06-20 20:06:10,2024-06-18,SLNH,Soluna Holdings Inc,Michaels David C,Dir,$3.47,9100.0,87826.0,12.0,31577.0
+2024-06-20 17:56:07,2024-06-17,AVTE,Aerovate Therapeutics Inc.,"Ra Capital Management, L.P.","Dir, 10%",$1.67,928110.0,9192092.0,11.0,1549944.0
+2024-06-20 16:15:11,2024-06-18,PYYX,Pyxus International Inc.,"Owl Creek Asset Management, L.P.",10%,$2.80,325374.0,3054205.0,12.0,911047.0
+2024-06-20 16:15:08,2024-06-18,AEI,Alset Inc.,Chan Heng Fai Ambrose,"CEO, 10%",$1.20,50000.0,5661539.0,1.0,60000.0
+2024-06-20 16:03:32,2024-06-17,CLOV,Clover Health Investments Corp. /de,Garipalli Vivek,"Dir, 10%",$1.14,877567.0,877567.0,New,1000426.0
+2024-06-18 17:08:54,2024-06-14,PRTH,Priority Technology Holdings Inc.,Priore Thomas Charles,"Pres, CEO, COB, 10%",$3.56,598187.0,46819476.0,1.0,2129546.0
+2024-06-18 16:30:05,2024-06-14,FBYD,Falcon'S Beyond Global Inc.,"Katmandu Ventures, LLC",10%,$3.62,1745906.0,1759542.0,>999,6316862.0
+2024-06-18 16:15:30,2024-06-14,AEI,Alset Inc.,Chan Heng Fai Ambrose,"CEO, 10%",$1.14,52821.0,5611539.0,1.0,60104.0
+2024-06-18 16:04:29,2024-06-14,ACRS,Aclaris Therapeutics Inc.,Leonard Braden Michael,10%,$1.15,545000.0,22904268.0,2.0,628206.0
+2024-06-18 13:17:59,2024-06-14,NWPP,New Peoples Bankshares Inc,Keene Harold L,"Dir, 10%",$2.70,14317.0,4538483.0,0.0,38656.0
+2024-06-18 09:28:54,2024-06-14,NRDY,Nerdy Inc.,Cohn Charles K.,"CEO, 10%",$1.93,347275.0,22752811.0,2.0,670241.0
+2024-06-18 09:00:03,2024-06-14,FTCI,Ftc Solar Inc.,Chatila Ahmad R,Dir,$0.45,108062.0,1190246.0,10.0,48628.0
+2024-06-17 18:08:20,2024-06-13,MNPR,Monopar Therapeutics,Cittadine Andrew,COO,$0.91,36000.0,153624.0,31.0,32894.0
+2024-06-17 15:13:41,2024-06-13,PKTX,Protokinetix Inc.,Smith Clarence Edward,"Pres, CEO, 10%",$0.01,6500000.0,83637093.0,8.0,65000.0
+2024-06-17 09:08:48,2024-06-13,TURN,180 Degree Capital Corp. /ny/,Rendino Kevin,"COB, CEO",$3.76,13517.0,773499.0,2.0,50844.0
+2024-06-17 09:06:56,2024-06-13,NRDY,Nerdy Inc.,Cohn Charles K.,"CEO, 10%",$1.88,347275.0,22405536.0,2.0,652877.0
+2024-06-14 19:52:29,2024-06-12,OPAD,Offerpad Solutions Inc.,Sella Roberto Marco,"Dir, 10%",$4.90,20433.0,3138883.0,1.0,100122.0
+2024-06-14 18:40:42,2024-06-12,DALN,Dallasnews Corp,Murray Mary K,"Pres, Treasurer Secretary",$3.81,7000.0,13369.0,110.0,26701.0
+2024-06-14 18:34:06,2024-06-12,LCGMF,Lion Copper & Gold Corp.,Alford Tony L,"Dir, 10%",$0.06,865200.0,121311101.0,1.0,47920.0
+2024-06-14 17:38:23,2024-06-13,SYPR,Sypris Solutions Inc,Convis Gary L,Dir,$1.92,20000.0,449811.0,5.0,38400.0
+2024-06-14 17:24:29,2024-06-12,HLLY,Holley Inc.,Rubel Matthew E,Exec. COB,$3.39,14493.0,1068104.0,1.0,49131.0
+2024-06-14 16:15:18,2024-06-14,CTOS,Custom Truck One Source Inc.,Heinberg Marshall,Dir,$4.34,10000.0,423856.0,2.0,43428.0
+2024-06-14 16:05:17,2024-06-13,PROK,Prokidney Corp.,Legorreta Pablo G.,"Dir, 10%",$2.42,22617909.0,22617909.0,New,54735340.0
+2024-06-14 16:02:29,2024-06-13,HBIO,Harvard Bioscience Inc,Green James W,CEO,$2.91,10000.0,3111091.0,0.0,29100.0
+2024-06-14 12:51:20,2024-06-14,RZLT,Rezolute Inc.,Roberts Brian Kenneth,Chief Medical Officer,$3.91,7600.0,68728.0,12.0,29743.0
+2024-06-14 12:06:37,2024-06-14,RZLT,Rezolute Inc.,Evans Daron,CFO,$4.04,40000.0,203351.0,24.0,161568.0
+2024-06-14 08:44:43,2024-06-12,NRDY,Nerdy Inc.,Cohn Charles K.,"CEO, 10%",$1.80,500000.0,22058261.0,2.0,900000.0
+2024-06-14 08:44:37,2024-06-13,FTCI,Ftc Solar Inc.,Chatila Ahmad R,Dir,$0.44,114726.0,1082184.0,12.0,50479.0
+2024-06-13 19:12:36,2024-06-12,SPWH,Sportsman'S Warehouse Holdings Inc.,Sansom Steven W.,Dir,$2.91,10000.0,148439.0,7.0,29135.0
+2024-06-13 18:55:56,2024-06-11,DTC,Solo Brands Inc.,Metz Christopher T,"Pres, CEO",$1.96,150000.0,250000.0,150.0,294618.0
+2024-06-13 18:32:05,2024-06-12,ZOM,Zomedica Corp.,Klass Russell Kevin,VP of Sales,$0.16,299993.0,2000050.0,18.0,46529.0
+2024-06-13 18:14:45,2024-06-11,FF,Futurefuel Corp.,Kruszewski Ronald J,Dir,$4.58,100000.0,100000.0,New,457913.0
+2024-06-13 18:04:27,2024-06-11,ACRS,Aclaris Therapeutics Inc.,Leonard Braden Michael,10%,$1.11,1611200.0,11007134.0,17.0,1781897.0
+2024-06-13 17:19:02,2024-06-13,CATX,Perspective Therapeutics Inc.,Spoor Johan M.,CEO,$1.17,100000.0,207572.0,93.0,117430.0
+2024-06-13 17:05:18,2024-06-11,PYYX,Pyxus International Inc.,"Owl Creek Asset Management, L.P.",10%,$2.80,123544.0,2728831.0,5.0,345923.0
+2024-06-13 16:33:29,2024-06-11,NUVB,Nuvation Bio Inc.,Blickenstaff Kim D,Dir,$2.90,172189.0,172189.0,New,500089.0
+2024-06-13 16:30:17,2024-06-12,FGEN,Fibrogen Inc,Adib Deyaa,Chief Medical Officer,$1.17,22123.0,82123.0,37.0,25884.0
+2024-06-13 16:15:24,2024-06-11,AEI,Alset Inc.,Chan Heng Fai Ambrose,"CEO, 10%",$1.08,99086.0,5558718.0,2.0,107113.0
+2024-06-13 15:51:05,2024-06-13,KPRX,Kiora Pharmaceuticals Inc,Parsons Erin,Dir,$4.88,5260.0,5260.0,New,25669.0
+2024-06-13 14:23:16,2024-06-11,NRDY,Nerdy Inc.,Cohn Charles K.,"CEO, 10%",$1.68,569976.0,21558261.0,3.0,957560.0
+2024-06-13 12:27:07,2024-06-11,PYYX,Pyxus International Inc.,Glendon Capital Management LP,"Dir, 10%",$2.80,376456.0,8315159.0,5.0,1054077.0
+2024-06-13 08:05:03,2024-06-11,PRSO,Peraso Inc.,McWalter Ian,Dir,$1.27,100000.0,104497.0,>999,127000.0
+2024-06-12 19:23:55,2024-06-10,KRON,Kronos Bio Inc.,Bischofberger Norbert W,"Pres, CEO",$1.04,3005122.0,11241620.0,36.0,3119081.0
+2024-06-12 19:02:04,2024-06-10,NRDY,Nerdy Inc.,Cohn Charles K.,"CEO, 10%",$1.59,353000.0,20988285.0,2.0,561270.0
+2024-06-12 17:57:54,2024-06-10,NANX,Nanophase Technologies Corp,Whitmore R Janet,Dir,$1.44,18369.0,1908641.0,1.0,26487.0
+2024-06-12 16:30:07,2024-06-11,BMEA,Biomea Fusion Inc.,Valle Franco,CFO,$4.43,12509.0,42500.0,42.0,55361.0
+2024-06-12 16:22:13,2024-06-10,TLS,Telos Corp,Schaufeld Fredrick,Dir,$4.01,283566.0,2219072.0,15.0,1135712.0
+2024-06-12 16:15:26,2024-06-10,ZOM,Zomedica Corp.,Klass Russell Kevin,VP of Sales,$0.15,700007.0,1700057.0,70.0,105041.0
+2024-06-12 09:00:03,2024-06-10,ONDS,Ondas Holdings Inc.,Brock Eric A,"COB, CEO, Pres",$0.73,45049.0,1936255.0,2.0,32751.0
+2024-06-11 21:37:53,2024-06-07,FRTX,Fresh Tracks Therapeutics Inc.,"Exploration Capital, LLC",10%,$0.94,405500.0,1786412.0,29.0,381170.0
+2024-06-11 21:19:01,2024-06-07,UHG,United Homes Group Inc.,Nieri Pennington W.,"Co-EVP - Construction, 10%",$5.00,1403019.0,1486351.0,>999,7015095.0
+2024-06-11 21:05:08,2024-06-07,UHG,United Homes Group Inc.,Nieri Patrick Michael,10%,$5.00,278149.0,361481.0,334.0,1390745.0
+2024-06-11 20:41:54,2024-06-07,UHG,United Homes Group Inc.,Lincks Maigan Nieri,10%,$5.00,278150.0,361482.0,334.0,1390750.0

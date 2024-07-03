@@ -1,0 +1,101 @@
+filing_date,trade_date,ticker,company_name,industry,insiders,price,quantity,ownership,ownership_change,value
+2024-07-01 17:09:27,2024-06-21,TLYS,"Tilly'S, Inc.",Apparel & Accessory Stores,2,5.48,304559,8022704,4,1668079
+2024-07-01 10:22:12,2024-06-27,DHIL,Diamond Hill Investment Group Inc,Investment Advice,3,143.13,1450,77457,2,207541
+2024-07-01 06:30:02,2024-06-27,STTK,"Shattuck Labs, Inc.",Pharmaceutical Preparations,2,3.63,22816,2883340,1,82779
+2024-06-28 18:39:55,2024-06-28,TXO,"Txo Partners, L.P.",Crude Petroleum & Natural Gas,2,20.0,978000,8500215,13,19560000
+2024-06-28 09:26:04,2024-06-26,FRD,Friedman Industries Inc,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",3,15.93,14000,195419,8,222983
+2024-06-27 14:21:20,2024-05-29,VCRDX,Versus Capital Infrastructure Income Fund,Closed-End Funds,3,10.22,2788351,5598351,99,28499970
+2024-06-26 16:39:40,2024-06-24,NXDT,Nexpoint Diversified Real Estate Trust,Real Estate Investment Trusts,3,5.13,205942,8077677,3,1056877
+2024-06-26 08:00:03,2024-06-25,INMB,"Inmune Bio, Inc.","Biological Products, (No Diagnostic Substances)",4,8.26,85082,4389314,2,702632
+2024-06-24 16:30:15,2024-06-21,UBCP,United Bancorp Inc /oh/,State Commercial Banks,2,12.33,5421,253420,2,66841
+2024-06-24 16:21:52,2024-06-24,SAIC,Science Applications International Corp,Computer Integrated Systems Design,3,121.95,6010,120669,5,732891
+2024-06-24 16:03:45,2024-06-20,PSEC,Prospect Capital Corp,Closed-End Funds,2,5.55,802231,66100376,1,4452402
+2024-06-21 20:29:09,2024-06-20,VRE,"Veris Residential, Inc.",Real Estate Investment Trusts,2,14.32,45000,699628,7,644447
+2024-06-21 16:32:21,2024-04-08,CRMT,Americas Carmart Inc,Auto Dealers & Gasoline Stations,2,58.03,51689,839251,7,2999762
+2024-06-20 07:30:00,2024-06-17,BHVN,Biohaven Ltd.,Pharmaceutical Preparations,4,40.15,436355,11169283,4,17519468
+2024-06-18 18:34:59,2024-06-14,DENN,Denny'S Corp,Eating Places,2,6.52,22000,198363,12,143417
+2024-06-18 17:19:49,2024-06-17,SPMC,"Sound Point Meridian Capital, Inc.",Closed-End Funds,3,20.0,105002,105002,N\A,2100040
+2024-06-18 17:08:54,2024-06-14,PRTH,"Priority Technology Holdings, Inc.",Business Services,2,3.57,608187,46879228,1,2170546
+2024-06-18 17:01:10,2024-06-17,TPB,"Turning Point Brands, Inc.",Tobacco Products,2,31.5,6260,52099,14,197170
+2024-06-18 14:47:45,2024-06-18,FTHY,First Trust High Yield Opportunities 2027 Term Fund,Closed-End Funds,4,14.13,57100,135100,73,807010
+2024-06-18 10:32:47,2024-06-17,SRBK,"Sr Bancorp, Inc.","Savings Institutions, Not Federally Chartered",2,9.16,25000,166409,18,228971
+2024-06-18 10:03:00,2024-06-17,DMLP,"Dorchester Minerals, L.P.",Crude Petroleum & Natural Gas,3,31.29,15230,244685,7,476593
+2024-06-17 21:44:01,2024-06-13,OUST,"Ouster, Inc.",General Industrial Machinery & Equipment,3,11.55,54000,1405024,4,623955
+2024-06-17 20:48:20,2024-06-13,EGBN,Eagle Bancorp Inc,State Commercial Banks,3,18.4,8332,392623,2,153328
+2024-06-17 18:16:15,2024-06-14,BGSF,"Bgsf, Inc.",Help Supply Services,2,6.76,21829,147439,17,147509
+2024-06-17 16:05:09,2024-06-14,BYON,"Beyond, Inc.",Catalog & Mail-Order Houses,2,14.87,40095,333152,14,596238
+2024-06-17 15:23:47,2024-06-14,GRNT,"Granite Ridge Resources, Inc.",Crude Petroleum & Natural Gas,4,6.13,38200,1091671,4,234150
+2024-06-17 11:03:38,2024-06-14,PVBC,"Provident Bancorp, Inc. /Md/","Savings Institutions, Not Federally Chartered",2,9.81,15000,29486,104,147215
+2024-06-17 10:39:40,2024-06-17,NEWT,"Newtekone, Inc.",National Commercial Banks,2,13.91,12000,1152355,1,166901
+2024-06-17 10:20:11,2024-06-14,GAM,General American Investors Co Inc,Closed-End Funds,2,24.92,10665,391307,3,265770
+2024-06-14 19:52:29,2024-06-12,OPAD,Offerpad Solutions Inc.,Real Estate Agents & Managers (For Others),2,5.09,109558,4248582,3,558075
+2024-06-14 18:07:59,2024-06-14,RGEN,Repligen Corp,"Biological Products, (No Diagnostic Substances)",3,124.71,4815,174469,3,600476
+2024-06-14 17:36:54,2024-04-26,HTLD,Heartland Express Inc,Trucking (No Local),3,10.16,474788,62248525,1,4824403
+2024-06-14 16:15:18,2024-06-14,CTOS,"Custom Truck One Source, Inc.",Equipment Rental & Leasing,4,4.07,92000,1180991,8,374087
+2024-06-14 14:40:26,2024-06-13,RHP,"Ryman Hospitality Properties, Inc.",Real Estate Investment Trusts,2,103.83,23772,1415222,2,2468254
+2024-06-14 14:26:54,2024-06-13,NFBK,"Northfield Bancorp, Inc.","Savings Institution, Federally Chartered",7,7.88,72561,1632847,5,571522
+2024-06-14 13:07:54,2024-06-12,SNDA,"Sonida Senior Living, Inc.",Nursing & Personal Care Facilities,2,27.22,10547,346686,3,287108
+2024-06-14 12:51:20,2024-06-14,RZLT,"Rezolute, Inc.",Pharmaceutical Preparations,2,4.02,47600,272079,21,191311
+2024-06-13 19:30:33,2024-06-13,VFC,V F Corp,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",2,13.39,100200,435102,30,1341903
+2024-06-13 18:14:45,2024-06-11,FF,Futurefuel Corp.,Industrial Organic Chemicals,3,4.53,131400,151400,657,595217
+2024-06-13 14:26:19,2024-06-13,CLF,Cleveland-Cliffs Inc.,Metal Mining,6,16.17,126450,6468264,2,2044654
+2024-06-13 13:42:53,2024-06-13,ICCH,"Icc Holdings, Inc.","Fire, Marine & Casualty Insurance",2,22.3,8475,140253,6,188992
+2024-06-12 19:00:21,2024-06-10,OEC,Orion S.A.,Miscellaneous Chemical Products,2,23.6,9000,146763,7,212440
+2024-06-12 18:28:42,2024-06-12,FTRE,Fortrea Holdings Inc.,Medical Laboratories,2,24.89,12000,65327,23,298666
+2024-06-12 16:47:51,2024-06-11,MCB,Metropolitan Bank Holding Corp.,State Commercial Banks,2,39.13,2280,49428,5,89219
+2024-06-12 16:22:13,2024-06-10,TLS,Telos Corp,Computer Integrated Systems Design,2,4.02,1136766,8024745,17,4568752
+2024-06-12 16:15:59,2024-06-11,BL,"Blackline, Inc.",Prepackaged Software,2,47.27,12552,203860,7,593326
+2024-06-12 16:03:03,2024-06-11,BOC,Boston Omaha Corp,Real Estate Operators (No Developers) & Lessors,5,14.17,215428,7138012,3,3052033
+2024-06-11 21:19:01,2024-06-07,UHG,"United Homes Group, Inc.",Operative Builders,4,5.0,2580646,2830642,N\A,12903230
+2024-06-11 16:53:42,2024-06-07,GBDC,"Golub Capital Bdc, Inc.",Closed-End Funds,2,16.03,1024534,14960385,7,16427016
+2024-06-11 16:27:19,2024-06-11,PWOD,Penns Woods Bancorp Inc,State Commercial Banks,5,17.63,15469,164136,10,272644
+2024-06-11 13:03:39,2024-06-06,GHLD,Guild Holdings Co,Mortgage Bankers & Loan Correspondents,4,16.12,10366,787769,1,167113
+2024-06-10 16:32:18,2024-06-07,SNV,Synovus Financial Corp,National Commercial Banks,2,38.8,52500,94397,125,2037000
+2024-06-10 16:14:42,2024-06-10,SHEN,Shenandoah Telecommunications Co/va/,Telephone Communications (No Radiotelephone),5,15.36,47881,2060551,2,735623
+2024-06-10 10:48:14,2024-06-05,LNKB,"Linkbancorp, Inc.",State Commercial Banks,2,8.38,475342,1893620,34,3985318
+2024-06-07 16:38:00,2024-06-07,ATSG,"Air Transport Services Group, Inc.",Air Courier Services,2,12.66,8996,698007,1,113888
+2024-06-07 14:44:59,2024-06-06,FFIN,First Financial Bankshares Inc,State Commercial Banks,3,29.29,7300,129248,6,213815
+2024-06-07 09:59:03,2024-06-05,FRAF,Franklin Financial Services Corp /pa/,State Commercial Banks,3,27.39,7000,67454,12,191740
+2024-06-07 09:48:28,2024-06-06,LEG,Leggett & Platt Inc,Household Furniture,5,11.76,63650,1386690,5,748592
+2024-06-06 16:21:30,2024-06-04,RNGR,"Ranger Energy Services, Inc.",Oil & Gas Field Services,2,9.61,15285,395930,4,146952
+2024-06-05 16:12:36,2024-06-04,WTFC,Wintrust Financial Corp,State Commercial Banks,2,48.0,1797,218656,1,86255
+2024-06-05 14:12:24,2024-06-03,ALTI,"Alti Global, Inc.",Investment Advice,3,4.66,319951,745431,75,1492319
+2024-06-03 16:30:08,2024-05-31,TMCI,"Treace Medical Concepts, Inc.",Surgical & Medical Instruments & Apparatus,6,4.79,1184456,14951316,9,5671768
+2024-05-31 19:28:57,2024-05-30,RYI,Ryerson Holding Corp,Metals Service Centers & Offices,2,23.66,6127,228390,3,144985
+2024-05-31 17:47:54,2024-05-29,CMTG,"Claros Mortgage Trust, Inc.",Real Estate,5,7.16,233000,3286989,8,1669228
+2024-05-31 16:25:31,2024-05-30,BCRX,Biocryst Pharmaceuticals Inc,"Biological Products, (No Diagnostic Substances)",9,5.7,181101,2565265,8,1032338
+2024-05-31 16:18:26,2024-05-29,PENN,"Penn Entertainment, Inc.",Hotels & Motels,2,15.31,96157,372046,35,1471833
+2024-05-31 09:00:03,2024-04-17,SUN,Sunoco LP,Petroleum Refining,5,50.41,12500,939286,1,630120
+2024-05-30 17:46:13,2024-05-28,ACDC,Profrac Holding Corp.,Oil & Gas Field Services,2,9.41,2326070,77638261,3,21896435
+2024-05-30 16:15:07,2024-05-28,HRTG,"Heritage Insurance Holdings, Inc.","Fire, Marine & Casualty Insurance",3,8.27,70000,1743553,4,578750
+2024-05-29 18:00:53,2024-05-28,BOW,Bowhead Specialty Holdings Inc.,"Fire, Marine & Casualty Insurance",4,17.89,100839,274543,58,1804458
+2024-05-29 17:47:31,2024-05-24,VSTS,Vestis Corp,Miscellaneous Nondurable Goods,7,10.26,4136279,33010037,14,42437436
+2024-05-29 08:01:19,2024-05-28,OXLC,Oxford Lane Capital Corp.,Closed-End Funds,2,5.4,9260000,9694615,N\A,50004000
+2024-05-28 16:15:20,2024-05-23,BEEP,Mobile Infrastructure Corp,Real Estate,2,3.4,98759,5852450,2,335850
+2024-05-28 11:04:39,2024-05-28,GL,Globe Life Inc.,Life Insurance,8,81.51,17819,262572,7,1452369
+2024-05-24 18:04:07,2024-05-24,CMI,Cummins Inc,Engines & Turbines,2,285.91,2027,3341,154,579534
+2024-05-24 16:08:19,2024-05-23,IART,Integra Lifesciences Holdings Corp,Surgical & Medical Instruments & Apparatus,2,28.05,88991,1890106,5,2495795
+2024-05-23 18:24:21,2024-05-23,INVE,"Identiv, Inc.",Computer Peripheral Equipment,3,4.27,72166,494603,17,307822
+2024-05-23 11:34:50,2024-05-21,BKTI,Bk Technologies Corp,Radio & Tv Broadcasting & Communications Equipment,2,13.76,28860,140151,26,397090
+2024-05-22 20:36:41,2024-05-20,SOC,Sable Offshore Corp.,Crude Petroleum & Natural Gas,2,13.74,200000,21177500,1,2748300
+2024-05-22 19:13:06,2024-05-21,LMB,"Limbach Holdings, Inc.",Special Trade Contractors,2,49.13,3042,233980,1,149449
+2024-05-22 16:49:33,2024-05-21,IMNM,Immunome Inc.,Pharmaceutical Preparations,2,13.87,102000,429251,31,1415212
+2024-05-20 12:15:49,2024-05-17,ACTG,Acacia Research Corp,Patent Owners & Lessors,2,5.3,23962,424788,6,127103
+2024-05-20 08:30:14,2024-05-16,ABEO,Abeona Therapeutics Inc.,Pharmaceutical Preparations,3,3.77,29600,809835,4,111663
+2024-05-17 19:00:28,2024-05-16,AVD,American Vanguard Corp,Agricultural Chemicals,3,8.86,66700,1241691,6,591142
+2024-05-17 16:05:46,2024-05-16,ASTE,Astec Industries Inc,Construction Machinery & Equip,2,33.62,3000,89764,3,100860
+2024-05-15 17:47:22,2024-05-13,HHS,Harte Hanks Inc,Direct Mail Advertising Services,3,7.17,36175,267739,16,259416
+2024-05-15 16:13:06,2024-05-14,LENZ,"Lenz Therapeutics, Inc.","Biological Products, (No Diagnostic Substances)",2,15.96,34520,623787,6,551081
+2024-05-15 08:36:56,2024-05-13,HAIN,Hain Celestial Group Inc,Food & Kindred Products,3,7.3,28500,86809,49,207912
+2024-05-14 17:09:42,2024-05-13,BGS,"B&g Foods, Inc.",Food & Kindred Products,3,8.58,141955,550608,35,1218296
+2024-05-14 16:10:44,2024-05-14,DCGO,Docgo Inc.,Health Services,3,3.2,45000,1965373,2,144050
+2024-05-14 15:37:54,2024-05-13,CNMD,Conmed Corp,Electromedical & Electrotherapeutic Apparatus,4,69.82,7792,45882,20,544055
+2024-05-14 08:01:46,2024-05-10,EYE,"National Vision Holdings, Inc.",Ophthalmic Goods,2,14.64,54000,1222274,5,790398
+2024-05-10 17:45:58,2024-05-09,WDFC,Wd 40 Co,Miscellaneous Chemical Products,3,233.21,973,28157,4,226910
+2024-05-10 16:48:27,2024-05-09,XFLT,Xai Octagon Floating Rate & Alternative Income Trust,Closed-End Funds,2,7.13,13734,1098428,1,97924
+2024-05-10 13:40:18,2024-05-10,MAC,Macerich Co,Real Estate Investment Trusts,5,14.44,163365,363854,81,2359150
+2024-05-09 16:32:19,2024-05-09,UHT,Universal Health Realty Income Trust,Real Estate Investment Trusts,2,35.33,8000,211397,4,282641
+2024-05-09 16:10:41,2024-05-08,NBBK,"Nb Bancorp, Inc.","Savings Institutions, Not Federally Chartered",3,14.62,24995,215324,13,365482
+2024-05-08 19:02:31,2024-05-07,UUUU,Energy Fuels Inc,Mining & Quarrying of Nonmetallic Minerals,4,5.85,53588,2074082,3,313558
+2024-05-07 16:00:37,2024-05-01,TBBK,"Bancorp, Inc.",National Commercial Banks,5,31.36,30734,938292,3,963693
+2024-05-06 16:17:30,2024-05-03,HI,"Hillenbrand, Inc.",Miscellaneous Manufacturing Industries,3,42.55,5650,186634,3,240406
